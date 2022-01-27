@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://sad-wescoff-38cb2e.netlify.app/
+- Live Site URL: https://preview-card-38c.netlify.app/
 
 ### Built with
 
@@ -31,4 +31,3 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library

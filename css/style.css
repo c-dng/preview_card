@@ -43,14 +43,25 @@ body {
   border-radius: 5px;
   overflow: hidden;
 }
-.main-image {
+
+.nft-img {
+  width: 302px;
+  height: 302px;
+  border-radius: 10px;
+  margin: auto;
   background-image: url("../images/image-equilibrium.jpg");
+  background-size:contain;
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  height: 100%;
-  min-height: 18.75rem;
-  width: 100%;
+}
+
+.nft-img:hover {
+  background-image: url("../images/icon-view.svg");
+  background-repeat: no-repeat;
+  background-color: #00FFF8;
+  width: 302px;
+  height: 302px;
+  background-size: 40%;
+  background-position: center;
 }
 
 .color-image {
